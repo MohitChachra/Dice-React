@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Dice-React/static/css/main.29fe419b.chunk.css",
+    "main.js": "/Dice-React/static/js/main.296686db.chunk.js",
+    "main.js.map": "/Dice-React/static/js/main.296686db.chunk.js.map",
+    "runtime-main.js": "/Dice-React/static/js/runtime-main.bc3afeb9.js",
+    "runtime-main.js.map": "/Dice-React/static/js/runtime-main.bc3afeb9.js.map",
+    "static/js/2.450296cf.chunk.js": "/Dice-React/static/js/2.450296cf.chunk.js",
+    "static/js/2.450296cf.chunk.js.map": "/Dice-React/static/js/2.450296cf.chunk.js.map",
+    "index.html": "/Dice-React/index.html",
+    "precache-manifest.e1187f38a98abf473c861b8af98be4a3.js": "/Dice-React/precache-manifest.e1187f38a98abf473c861b8af98be4a3.js",
+    "service-worker.js": "/Dice-React/service-worker.js",
+    "static/css/main.29fe419b.chunk.css.map": "/Dice-React/static/css/main.29fe419b.chunk.css.map",
+    "static/js/2.450296cf.chunk.js.LICENSE.txt": "/Dice-React/static/js/2.450296cf.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Dice-React/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc3afeb9.js",
+    "static/js/2.450296cf.chunk.js",
+    "static/css/main.29fe419b.chunk.css",
+    "static/js/main.296686db.chunk.js"
+  ]
+}
